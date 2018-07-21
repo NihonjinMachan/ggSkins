@@ -1,0 +1,143 @@
+.home{
+	background-image:url(images/back.png);
+}
+
+
+.products{
+    background-image:url(images/back.png);
+}
+
+
+.navbar li{
+    margin-top: 12px;
+	list-style: none;
+	display: inline-block;
+	margin-left: 10px;
+	margin-right: 10px;
+    
+}
+
+.navbar a{
+	color: #DADFE1;
+	text-decoration: none;
+	font-family: 'Raleway', sans-serif;
+}
+
+.navbar a:hover{
+    color: white;
+}
+
+.logo{
+    float: left;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+
+.list1 li:nth-child(4), li:nth-child(5){
+    float: right;
+    margin-right:20px;
+}
+
+.maintext {
+    margin-top: 25px;
+    text-align: center;
+    vertical-align: middle;
+    height: 500px;
+}
+
+.maintext p{
+    color: white;
+    font-size: 7em;
+    font-family: 'Work Sans', sans-serif;
+}
+
+#subtext{
+    color: white;
+    margin-top: -80px;
+    font-size: 1.9em;
+    font-family: 'Work Sans', sans-serif;
+}
+
+
+footer{
+    margin-top: -49px;
+    width: 1280px;
+	font-family: 'Work Sans', sans-serif;
+	font-size: 1em;
+    text-align: center;
+}
+
+footer li{
+	display: inline;
+}
+
+footer a{
+	text-decoration: none;
+	padding: 12px;
+	color: #DADFE1;
+}
+
+footer a:hover{
+    color: white;
+}
+
+.text{
+   text-align: center;
+   vertical-align: middle;
+   font-family: 'Work Sans', sans-serif;
+   font-size: 3em;
+   color: white;
+   margin-top: 50px;
+}
+
+
+.productsdiv{
+    margin: 20 auto;
+    text-align: center;
+    vertical-align: middle;
+    height: auto;
+    width: 100%;
+    background-color: white;
+    position: absolute;
+    left: 0;
+}
+
+.content{
+	font-family: 'Raleway', sans-serif;
+}
+
+
+.content li{
+    float: inherit;
+    margin-top: 20px;
+	list-style: none;
+	color: #6C7A89;
+	display: inline-block;
+	padding: 20px;
+}
+
+.footer1{
+    margin-top: 70px;
+    width: 1280px;
+	font-family: 'Raleway', sans-serif;
+    text-align: center;
+    font-size: 1em;
+}
+
+.footer1 li{
+	display: inline;
+}
+
+.footer1 a{
+	text-decoration: none;
+	padding: 12px;
+	color: #6C7A89;
+}
+
+.footer1 a:hover{
+    color: #BDC3C7;
+}
+
+.cartbutton{
+    font-family: 'Raleway', sans-serif;
+}

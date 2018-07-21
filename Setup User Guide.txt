@@ -1,0 +1,12 @@
+Setup User Guide:
+(Can also be found in the Dev Notes section of the Report)
+
+1- Tomcat version 8.0 was used to run the website.
+
+2- Eclipse should be run in administrator mode to avoid “access denied” errors.
+
+3- Java permissions should be set to full control to avoid errors related to writing to the file.
+
+4- A blank text file, Info.txt, is provided in the source file. Absolute path is used for the text file. Path must be changed to an appropriate one to avoid errors.
+
+5- Recommended to use Notepad++ or the like to open the text file so as to view purchase details in proper format.
